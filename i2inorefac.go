@@ -35,7 +35,7 @@ func main() {
 			}
 		
 		}
-		 if num>=2 && isPrime == true {
+		 if primNum>=2 && isPrime == true {
 			fmt.Println(primNum, "Number is prime number")
 		} else {
 			fmt.Println(primNum,"Number is not prime number")
